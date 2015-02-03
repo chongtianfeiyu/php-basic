@@ -6,8 +6,9 @@ strpos
 stripos
 strlen
 strip_tags
-strstr
+strtr
 stristr
+strstr
 stripslashes
 strnatcasecmp
 strnatcmp
@@ -22,7 +23,6 @@ strtok
 strtolower
 strtotime
 strtoupper
-strtr
 strval
 str_pad
 str_repeat
