@@ -12,6 +12,7 @@ strstr
 stripslashes
 strnatcasecmp
 strnatcmp
+strcasecmp
 strncasecmp
 strncmp
 strpbrk
@@ -30,7 +31,6 @@ str_rot13
 str_shuffle
 str_split
 str_word_count
-strcasecmp
 strchr
 strcmp
 strcspn
